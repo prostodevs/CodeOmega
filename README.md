@@ -1,1 +1,4 @@
 # CodeOmega
+
+Authors:
+Prostodevs
